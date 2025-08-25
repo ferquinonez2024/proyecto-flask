@@ -1,0 +1,10 @@
+/mi_proyecto_flask
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── about.html
+├── static/
+│   ├── styles.css
+├── requirements.txt
+├── .gitignore
